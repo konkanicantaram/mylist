@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-#EXTINF:-1,IND-GOA | GCTV [IN]
+#EXTINF:-1,IND-GOA | GCTV [IN]
 https://5a9fe19ea6821.streamlock.net:443/gctv/ngrp:livestream_all/playlist.m3u8
 #EXTINF:-1,IND-GOA | NCH [IN]
 http://iptv.mstudiosystem.com:1935/nch/livestream3/playlist.m3u8
