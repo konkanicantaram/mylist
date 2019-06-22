@@ -86,13 +86,13 @@ http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
 #EXTINF:-1,PK | Fox Sports 2 [USA]
 http://119.59.125.74/stream/totnew.php?channel_id=02cb79ab0b0c418f847148ca9e2baed4&.m3u8
 #EXTINF:-1,PK | BT Sport 1 [UK]
-http://iptv.ndasat.com:88/329056230761828/329056230761828/9
+http://darknetiptv.ddns.net:25461/jason/jason/500
 #EXTINF:-1,PK | BT Sport 2 [UK]
-http://iptv.ndasat.com:88/329056230761828/329056230761828/10
+http://darknetiptv.ddns.net:25461/jason/jason/498
 #EXTINF:-1,PK | BT Sport 3 [UK]
-http://iptv.ndasat.com:88/329056230761828/329056230761828/18
+http://darknetiptv.ddns.net:25461/jason/jason/492
 #EXTINF:-1,PK | BT Sport ESPN [UK]
-http://185.53.163.205:2507
+http://darknetiptv.ddns.net:25461/jason/jason/486
 #EXTINF:-1,PK | Flow Sports1 [UK]
 http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
 #EXTINF:-1,PK | Dsports SD [PK]
@@ -104,13 +104,13 @@ http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/322122
 #EXTINF:-1,IND | SONY TEN 1 [IN]
 http://thop.in/THOPTV_APP/zgbsat-3221225875-002.m3u8
 #EXTINF:-1,IND | SONY TEN 1 HD [IN]
-http://nettv-xcruiser.com:8000/ozuiXsk7xt/eGKAuCTtXB/54695
+http://nettv-xcruiser.com:8000/yQXpzhXnUE/hQQEKmTdrv/54695
 #EXTINF:-1,IND | SONY TEN 2 [IN]
-http://nettv-xcruiser.com:8000/ozuiXsk7xt/eGKAuCTtXB/54694
+http://nettv-xcruiser.com:8000/yQXpzhXnUE/hQQEKmTdrv/54694
 #EXTINF:-1,IND | SONY TEN 2 HD [IN]
 http://125.17.129.13/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226077/03.m3u8
 #EXTINF:-1,IND | SONY TEN 3 [IN]
-http://nettv-xcruiser.com:8000/ozuiXsk7xt/eGKAuCTtXB/54693
+http://nettv-xcruiser.com:8000/yQXpzhXnUE/hQQEKmTdrv/54693
 #EXTINF:-1,IND | SONY TEN 3 HD [IN]
 http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226330/04.m3u8
 #EXTINF:-1,IND | SONY ESPN SD [IN]
@@ -124,17 +124,19 @@ http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/32212
 #EXTINF:-1,IND | SONY SIX SD[IN]
 http://thop.in/THOPTV_APP/zgbsat-3221225780-002.m3u8
 #EXTINF:-1,IND | SONY SIX HD[IN]
-http://nettv-xcruiser.com:8000/ozuiXsk7xt/eGKAuCTtXB/54704
+http://nettv-xcruiser.com:8000/yQXpzhXnUE/hQQEKmTdrv/54704
 #EXTINF:-1,IND | Star Sports 1 HD[IN]
-http://nettv-xcruiser.com:8000/ozuiXsk7xt/eGKAuCTtXB/54703
+http://nettv-xcruiser.com:8000/yQXpzhXnUE/hQQEKmTdrv/54703
 #EXTINF:-1,IND | Star Sports 2 HD[IN]
 http://nettv-xcruiser.com:8000/ozuiXsk7xt/eGKAuCTtXB/54701
+#EXTINF:-1,IND | Star Sports select 1  HD[IN]
+http://nettv-xcruiser.com:8000/yQXpzhXnUE/hQQEKmTdrv/54698
 #EXTINF:-1,IND | Sky Sports Action HD[IN]
-http://nettv-xcruiser.com:8000/ozuiXsk7xt/eGKAuCTtXB/12189
+http://nettv-xcruiser.com:8000/yQXpzhXnUE/hQQEKmTdrv/12190
 #EXTINF:-1,IND | Sky Sports Cricket Sports [IN]
-http://nettv-xcruiser.com:8000/ozuiXsk7xt/eGKAuCTtXB/12187
+http://nettv-xcruiser.com:8000/yQXpzhXnUE/hQQEKmTdrv/12187
 #EXTINF:-1,IND | Sky Sports Cricket Sports HD[IN]
-http://nettv-xcruiser.com:8000/ozuiXsk7xt/eGKAuCTtXB/12188
+http://nettv-xcruiser.com:8000/yQXpzhXnUE/hQQEKmTdrv/12188
 #EXTINF:-1,IND | Sky Sports Football HD[IN]
 http://nettv-xcruiser.com:8000/ozuiXsk7xt/eGKAuCTtXB/12193
 #EXTINF:-1,IND | Colors SD[IN]
