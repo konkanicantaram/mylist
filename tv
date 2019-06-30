@@ -132,11 +132,11 @@ http://nettv-xcruiser.com:8000/ozuiXsk7xt/eGKAuCTtXB/54701
 #EXTINF:-1,IND | Star Sports select 1  HD[IN]
 http://nettv-xcruiser.com:8000/yQXpzhXnUE/hQQEKmTdrv/54698
 #EXTINF:-1,IND | Sky Sports Action HD[IN]
-http://nettv-xcruiser.com:8000/yQXpzhXnUE/hQQEKmTdrv/12190
+http://62.210.70.119:80/live.ts?channelId=129&deviceMac=00:1A:79:F9:8F:58&uid=3665
 #EXTINF:-1,IND | Sky Sports Cricket Sports [IN]
-http://nettv-xcruiser.com:8000/yQXpzhXnUE/hQQEKmTdrv/12187
+http://62.210.70.119:80/live.ts?channelId=129&deviceMac=00:1A:79:F9:8F:58&uid=3665
 #EXTINF:-1,IND | Sky Sports Cricket Sports HD[IN]
-http://nettv-xcruiser.com:8000/yQXpzhXnUE/hQQEKmTdrv/12188
+http://62.210.70.119:80/live.ts?channelId=130&deviceMac=00:1A:79:F9:8F:58&uid=3665
 #EXTINF:-1,IND | Sky Sports Football HD[IN]
 http://nettv-xcruiser.com:8000/ozuiXsk7xt/eGKAuCTtXB/12193
 #EXTINF:-1,IND | Colors SD[IN]
