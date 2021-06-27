@@ -65,6 +65,8 @@ http://dyo5cp96eopax.cloudfront.net/p/CANE_760x432_1200k.m3u8
 http://213.13.26.11:1935/live/santuario.stream/livestream.m3u8
 #EXTINF:-1,IND | test video [IN]
 https://www.youtube.com/watch?v=7R54NdzVKxk
+#EXTINF:-1,IND | ITV [IN]
+https://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master.m3u8
 #EXTINF:-1,IND | EWTN [IN]
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1585347501/ei/TSd-XvDFLr6gxN8Pw-ipuAo/ip/86.14.7.115/id/9C_JKA0G-ZY.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r3---sn-8pgbpohxqp5-auoe.googlevideo.com/vprv/1/playlist_type/DVR/initcwndbps/14190/mh/Dh/mm/44/mn/sn-8pgbpohxqp5-auoe/ms/lva/mv/m/mvi/2/pl/24/dover/11/keepalive/yes/fexp/23882514/mt/1585326858/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,vprv,playlist_type/sig/AJpPlLswRAIgKN0glP0dh8I1vVfHhPFsr3ZEPYqAvJR8Jjv_zbpjg9kCIEY6OGU7QuGg0Awy8koAXz72jzr3D7qUzFqqX1eLVocL/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/ALrAebAwRgIhAPUtlqfciH19d6gU3kZ7vlqLJnJjR39NwLbuxtQDIOpGAiEAxX1Cffb40flwTo2sdnEx_OxJIi2yyNwQAs9k5CGZPa8%3D/playlist/index.m3u8
 #EXTINF:-1,IND | Vatican Media Live [IN]
